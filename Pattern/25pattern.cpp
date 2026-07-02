@@ -1,11 +1,4 @@
-/**
 
- * Each pattern function uses nested loops to print a specific 2D shape.
- * The outer loop controls rows and the inner loop(s) control columns,
- * spaces, and characters printed per row.
-
- 
- */
 
 #include <iostream>
 #include <cstdlib>
